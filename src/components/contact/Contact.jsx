@@ -31,19 +31,19 @@ function Contact() {
           <HiOutlineMail className='contact_option-icon'/>
           <h4>Email</h4>
           <h5>gaurugarg2006@gmail.com</h5>
-          <a href="mailto:gaurugarg2006@gmail.com" target="_blank">Send a message</a>
+          <a href="mailto:gaurugarg2006@gmail.com" target="_blank" rel="noreferrer">Send a message</a>
         </article>
         <article className="contact_option">
           <BsWhatsapp className='contact_option-icon'/>
           <h4>WhatsApp</h4>
           <h5>+91 7909809129</h5>
-          <a href="https://api.whatsapp.com/send?phone=7909809129" target="_blank">Send a message</a>
+          <a href="https://api.whatsapp.com/send?phone=7909809129" target="_blank" rel="noreferrer">Send a message</a>
         </article>
         <article className="contact_option">
           <AiOutlineInstagram className='contact_option-icon'/>
           <h4>Instagram</h4>
           <h5>Gaurav Garg</h5>
-          <a href="https://instagram.com/_toxic._.gaurav?igshid=YmMyMTA2M2Y=" target="_blank">Send a message</a>
+          <a href="https://instagram.com/_toxic._.gaurav?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer">Send a message</a>
         </article>
       </div>
       {/* END CONTACT OPTIONS */}

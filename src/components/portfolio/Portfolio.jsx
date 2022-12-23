@@ -20,8 +20,8 @@ function Portfolio() {
         </div>
         <h3>This is a most popular resurant FirstFiddle clone Using React Js</h3>
         <div className="btns">
-        <a href="https://github.com/gaurugarg123" className='btn' target="_blank">Github</a>
-        <a href="https://firstfiddleclone.netlify.app/" target="_blank" className='btn btn-primary' >Visit Website</a>
+        <a href="https://github.com/gaurugarg123" className='btn' target="_blank" rel="noreferrer" >Github</a>
+        <a href="https://firstfiddleclone.netlify.app/" target="_blank" rel="noreferrer"  className='btn btn-primary' >Visit Website</a>
         </div>
       </article>
       <article className='portfolio_item'>
@@ -30,8 +30,8 @@ function Portfolio() {
         </div>
         <h3>This a Grocery Store Website Using HTML,CSS and JS. You should visit there</h3>
         <div className="btns">
-        <a href="https://github.com/gaurugarg123" className='btn' target="_blank">Github</a>
-        <a href="https://gaurugarg123.github.io/mahakaligrocery.github.io/" target="_blank" className='btn btn-primary' >Visit Website</a>
+        <a href="https://github.com/gaurugarg123" className='btn' target="_blank" rel="noreferrer" >Github</a>
+        <a href="https://gaurugarg123.github.io/mahakaligrocery.github.io/" target="_blank" rel="noreferrer"  className='btn btn-primary' >Visit Website</a>
         </div>
       </article>
       <article className='portfolio_item'>
@@ -40,8 +40,8 @@ function Portfolio() {
         </div>
         <h3>This TextUtils Help You to convert your text into diffrent facilities.</h3>
         <div className="btns">
-        <a href="https://github.com/gaurugarg123" className='btn' target="_blank">Github</a>
-        <a href="https://textutilsreact.netlify.app/" target="_blank" className='btn btn-primary' >Visit Website</a>
+        <a href="https://github.com/gaurugarg123" className='btn' target="_blank" rel="noreferrer" >Github</a>
+        <a href="https://textutilsreact.netlify.app/" target="_blank" rel="noreferrer"  className='btn btn-primary' >Visit Website</a>
         </div>
       </article>
       <article className='portfolio_item'>
@@ -50,8 +50,8 @@ function Portfolio() {
         </div>
         <h3>This is a Internship Clone of PNINFOSYS Software Company Using HTML and CSS</h3>
         <div className="btns">
-        <a href="https://github.com/gaurugarg123" className='btn' target="_blank">Github</a>
-        <a href="https://gaurugarg123.github.io/Internship__Form/" target="_blank" className='btn btn-primary' >Visit Website</a>
+        <a href="https://github.com/gaurugarg123" className='btn' target="_blank" rel="noreferrer" >Github</a>
+        <a href="https://gaurugarg123.github.io/Internship__Form/" target="_blank" rel="noreferrer"  className='btn btn-primary' >Visit Website</a>
         </div>
       </article>
       <article className='portfolio_item'>
@@ -60,8 +60,8 @@ function Portfolio() {
         </div>
         <h3>This is a Product Search engine Bar Using HTML,CSS and JS</h3>
         <div className="btns">
-        <a href="https://github.com/gaurugarg123" className='btn' target="_blank">Github</a>
-        <a href="https://gaurugarg123.github.io/ProductSearchengineBar/" target="_blank" className='btn btn-primary' >Visit Website</a>
+        <a href="https://github.com/gaurugarg123" className='btn' target="_blank" rel="noreferrer" >Github</a>
+        <a href="https://gaurugarg123.github.io/ProductSearchengineBar/" target="_blank" rel="noreferrer"  className='btn btn-primary' >Visit Website</a>
         </div>
       </article>
       <article className='portfolio_item'>
@@ -70,8 +70,8 @@ function Portfolio() {
         </div>
         <h3>This is a Guess The Number Game Using HTML,CSS and JS</h3>
         <div className="btns">
-        <a href="https://github.com/gaurugarg123" className='btn' target="_blank">Github</a>
-        <a href="https://gaurugarg123.github.io/Guess_The_Number_Game/" target="_blank" className='btn btn-primary' >Visit Website</a>
+        <a href="https://github.com/gaurugarg123" className='btn' target="_blank" rel="noreferrer" >Github</a>
+        <a href="https://gaurugarg123.github.io/Guess_The_Number_Game/" target="_blank" rel="noreferrer"  className='btn btn-primary' >Visit Website</a>
         </div>
       </article>
       <article className='portfolio_item'>
@@ -80,8 +80,8 @@ function Portfolio() {
         </div>
         <h3>This is a Classic Calculator Using HTML,CSS and JS</h3>
         <div className="btns">
-        <a href="https://github.com/gaurugarg123" className='btn' target="_blank">Github</a>
-        <a href="https://gaurugarg123.github.io/Calculator/" target="_blank" className='btn btn-primary' >Visit Website</a>
+        <a href="https://github.com/gaurugarg123" className='btn' target="_blank" rel="noreferrer" >Github</a>
+        <a href="https://gaurugarg123.github.io/Calculator/" target="_blank" rel="noreferrer"  className='btn btn-primary' >Visit Website</a>
         </div>
       </article>
       
